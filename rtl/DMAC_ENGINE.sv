@@ -1,5 +1,5 @@
 // Copyright (c) 2021 Sungkyunkwan University
-//
+// SKKU
 // Authors:
 // - Jungrae Kim <dale40@skku.edu>
 
